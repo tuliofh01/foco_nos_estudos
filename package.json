@@ -1,0 +1,30 @@
+{
+  "name": "foco_nos_estudos",
+  "version": "1.0.0",
+  "description": "An app made by undergraduate students targeting undergraduate students.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tuliofh01/foco_nos_estudos.git"
+  },
+  "keywords": [
+    "self-study",
+    "self-discipline",
+    "self-learning",
+    "PUC-MG/TCI",
+    "typescript",
+    "bootstrap",
+    "jquery"
+  ],
+  "author": "Túlio Ferreira Horta",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
